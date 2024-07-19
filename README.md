@@ -56,23 +56,9 @@ Regression Equation: HDFC_t = 171.9669 + 0.3902 * RBI_Rates_t + -0.3648 * Nifty5
 
 
 ### Regression Equation for Predicting HDFC Stock Price
+![image](https://github.com/user-attachments/assets/5f0d0372-ed47-437e-ba52-6d83d13381a8)
 
-**Equation**
 
-The regression equation for predicting the HDFC stock price (\( HDFC_t \)) based on the other four independent variables (Fed rates, RBI rates, Nifty500, Bank Nifty) can be written as:
-
-\[ HDFC_t = \beta_0 + \beta_1 \cdot Fed \, Rates_t + \beta_2 \cdot RBI \, Rates_t + \beta_3 \cdot Nifty500_t + \beta_4 \cdot Bank \, Nifty_t + \epsilon_t \]
-
-**Where:**
-
-- \( HDFC_t \) is the HDFC stock price at time \( t \).
-- \( Fed \, Rates_t \) is the Federal Reserve interest rate at time \( t \).
-- \( RBI \, Rates_t \) is the Reserve Bank of India interest rate at time \( t \).
-- \( Nifty500_t \) is the value of the Nifty 500 index at time \( t \).
-- \( Bank \, Nifty_t \) is the value of the Bank Nifty index at time \( t \).
-- \( \beta_0 \) is the intercept.
-- \( \beta_1, \beta_2, \beta_3, \beta_4 \) are the coefficients for each independent variable.
-- \( \epsilon_t \) is the error term at time \( t \).
 
 To estimate this regression equation using your data, We can use linear regression techniques or other suitable econometric methods as follws -
 
